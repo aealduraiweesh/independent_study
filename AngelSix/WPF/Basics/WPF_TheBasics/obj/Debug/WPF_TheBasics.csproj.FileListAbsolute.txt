@@ -1,0 +1,15 @@
+C:\Users\AEALDURAIWEESH\Desktop\Work Space\Independant Study\repos\AngelSix\WPF\Basics\WPF_TheBasics\bin\Debug\WPF_TheBasics.exe.config
+C:\Users\AEALDURAIWEESH\Desktop\Work Space\Independant Study\repos\AngelSix\WPF\Basics\WPF_TheBasics\bin\Debug\WPF_TheBasics.exe
+C:\Users\AEALDURAIWEESH\Desktop\Work Space\Independant Study\repos\AngelSix\WPF\Basics\WPF_TheBasics\bin\Debug\WPF_TheBasics.pdb
+C:\Users\AEALDURAIWEESH\Desktop\Work Space\Independant Study\repos\AngelSix\WPF\Basics\WPF_TheBasics\obj\Debug\MainWindow.g.cs
+C:\Users\AEALDURAIWEESH\Desktop\Work Space\Independant Study\repos\AngelSix\WPF\Basics\WPF_TheBasics\obj\Debug\App.g.cs
+C:\Users\AEALDURAIWEESH\Desktop\Work Space\Independant Study\repos\AngelSix\WPF\Basics\WPF_TheBasics\obj\Debug\WPF_TheBasics_MarkupCompile.cache
+C:\Users\AEALDURAIWEESH\Desktop\Work Space\Independant Study\repos\AngelSix\WPF\Basics\WPF_TheBasics\obj\Debug\WPF_TheBasics_MarkupCompile.lref
+C:\Users\AEALDURAIWEESH\Desktop\Work Space\Independant Study\repos\AngelSix\WPF\Basics\WPF_TheBasics\obj\Debug\MainWindow.baml
+C:\Users\AEALDURAIWEESH\Desktop\Work Space\Independant Study\repos\AngelSix\WPF\Basics\WPF_TheBasics\obj\Debug\WPF_TheBasics.g.resources
+C:\Users\AEALDURAIWEESH\Desktop\Work Space\Independant Study\repos\AngelSix\WPF\Basics\WPF_TheBasics\obj\Debug\WPF_TheBasics.Properties.Resources.resources
+C:\Users\AEALDURAIWEESH\Desktop\Work Space\Independant Study\repos\AngelSix\WPF\Basics\WPF_TheBasics\obj\Debug\WPF_TheBasics.csproj.GenerateResource.cache
+C:\Users\AEALDURAIWEESH\Desktop\Work Space\Independant Study\repos\AngelSix\WPF\Basics\WPF_TheBasics\obj\Debug\WPF_TheBasics.csproj.CoreCompileInputs.cache
+C:\Users\AEALDURAIWEESH\Desktop\Work Space\Independant Study\repos\AngelSix\WPF\Basics\WPF_TheBasics\obj\Debug\WPF_TheBasics.exe
+C:\Users\AEALDURAIWEESH\Desktop\Work Space\Independant Study\repos\AngelSix\WPF\Basics\WPF_TheBasics\obj\Debug\WPF_TheBasics.pdb
+C:\Users\AEALDURAIWEESH\Desktop\Work Space\Independant Study\repos\AngelSix\WPF\Basics\WPF_TheBasics\obj\Debug\WPF_TheBasics.csprojAssemblyReference.cache
