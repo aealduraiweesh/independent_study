@@ -35,23 +35,26 @@ namespace TreeViews_ValueConverters
                 };
 
                 //Adds dummy value
-                item.Items.Add(null);
-                
-                //Listen out for item being expanded
-                item.Expanded += Folder_Expanded;
+                item.Items.Add(null);                //Add dummy item so we can expand folder
+
 
                 //Add it to the main tree
                 FolderView.Items.Add(item);
+
+                //Listen out for item being expanded
+                item.Expanded += Folder_Expanded;
+
+               
             }
         
         }
 
         private void Folder_Expanded(object sender, RoutedEventArgs e)
         {
-            var item = (TreeViewItem)sender;
+            var item = (TreeViewItem)sender; //transformed the object sender into a treeViewItem we can use
 
-            //if the items only contains the dummy data
-            if (item.Items.Count != 1 || item.Items[0] != null)
+            //if the items only contains the dummy data {{The author calls this reverse logic which should save alot of code}}
+            if (item.Items.Count != 1 || item.Items[0] != null) // so basically if its not not 1 item in there and the one item is not null keep going
                 return;
 
             item.Items.Clear();
@@ -66,10 +69,10 @@ namespace TreeViews_ValueConverters
             //ignoring any issues doing so
             try
             {
-                var dirs = Directory.GetDirectories(fullpath);
+                var dirs = Directory.GetDirectories(fullpath); // gets all the directories in the path we just fed it
 
                 if(dirs.Length >0)
-                { directories.AddRange(dirs);}
+                { directories.AddRange(dirs);} //adds the directory found in the list
             }
             catch
             {
